@@ -1,5 +1,5 @@
 default:
-  font: Ubuntu
+  font: Nimbus Sans L
   bold: "{* Bold}"
   mono: DejaVu Sans Mono
   prechap: "Chapter "
